@@ -1,0 +1,5 @@
+{
+  "name": "NeuroCal - Scientific Macro Calculator",
+  "description": "A precision-focused, black & white minimalist calculator for calories and macronutrients. Features scientific BMR formulas and AI-assisted activity level estimation.",
+  "requestFramePermissions": []
+}
